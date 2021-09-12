@@ -3,7 +3,7 @@
 # FILENAME: find_s.py
 # SPECIFICATION: This program will use the contact_lens.csv file to output the hypothesis of the Find-S Algorithm
 # FOR: CS 4200- Assignment #1
-# TIME SPENT: 1 hr 30 min
+# TIME SPENT: 1 hr
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard vectors and arrays
