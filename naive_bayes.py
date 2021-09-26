@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Jasmit Mahajan
 # FILENAME: naive_bayes.py
-# SPECIFICATION: This program will calculate
+# SPECIFICATION: This program will calculate using the naive-bayes algorithm
 # FOR: CS 4210- Assignment #2
 # TIME SPENT: 2 hrs
 #-----------------------------------------------------------*/
